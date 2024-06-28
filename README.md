@@ -28,3 +28,7 @@ Tugas M9
 
 Tugas M10
 - K Neareast Neighbours
+
+Tugas M11
+- Forward Propagation
+- Epoch Method
