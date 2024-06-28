@@ -32,3 +32,7 @@ Tugas M10
 Tugas M11
 - Forward Propagation
 - Epoch Method
+
+Tugas M12
+- Forward Propagation
+- Backward Propagation
