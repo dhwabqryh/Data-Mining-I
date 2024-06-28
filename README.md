@@ -15,3 +15,13 @@ Tugas M4
 
 Tugas M6
 - DBSCAN Clustering Analysis
+
+Tugas M8
+- Feature Selection
+- Apriori Algorithm
+- Transformation
+- Asscoation Rule
+- ECLAT
+
+Tugas M9
+- Random Forest
