@@ -25,3 +25,6 @@ Tugas M8
 
 Tugas M9
 - Random Forest
+
+Tugas M10
+- K Neareast Neighbours
