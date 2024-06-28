@@ -1,5 +1,5 @@
 # Data-Mining-I
-Tugas mata kuliah Data Mining I
+Tugas praktikum Data Mining I
 
 Tugas M2
 - Handling Missing Value
@@ -12,3 +12,6 @@ Tugas M3
 
 Tugas M4
 - Clustering Elbow Method
+
+Tugas M6
+- DBSCAN Clustering Analysis
